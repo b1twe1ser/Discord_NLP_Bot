@@ -15,7 +15,7 @@ Both changes shall be made inside the [main.py](https://github.com/b1twe1ser/Dis
 
 
 
-## Libraries 
+## Required Libraries 📚
 1️⃣ OpenAi 
 ```
 pip install openai
