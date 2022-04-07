@@ -1,4 +1,5 @@
-![Group 8](https://user-images.githubusercontent.com/69219273/162150875-37c45c81-983f-466e-98eb-5b8cfd8d973f.png)
+![Group 8](https://user-images.githubusercontent.com/69219273/162151281-e941906e-1720-483f-97a0-db41724dc684.png)
+
 
 
 # Discord_NLP_Bot
