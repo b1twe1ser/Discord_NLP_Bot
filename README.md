@@ -19,3 +19,14 @@ pip install openai
 ```
 pip install discord.py
 ```
+
+
+
+🚨 Disclaimer: The generated answers may or may not be accurate and may or may not be of sensitive content.
+
+
+Tips: 
+  - the bot responds best to full sentences
+  - refrain from using emjois 
+  - the bot does not keep context in mind
+💪�Tps: Tip: The algorithm responds best to full sente
