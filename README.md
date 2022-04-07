@@ -12,10 +12,7 @@ create a free account and get your API key 🔑.
 
 You will also have to insert your own client URL 🤷🏼‍♂️.
 
-Both changes shall be made here 👉🏼 [main.py]👈�(https://github.com/b1twe1ser/Discord_NLP_Bot/blob/master/main.py)👈� 👈🏼
-file.
-
-
+Both changes shall be made here 👉🏼 [main.py]�(((https://github.com/b1twe1ser/Discord_NLP_Bot/blob/master/main.py)�)👈🏼
 
 ## Required Libraries 📚
 1️⃣ OpenAi 
