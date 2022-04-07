@@ -1,3 +1,6 @@
+![Group 8](https://user-images.githubusercontent.com/69219273/162150875-37c45c81-983f-466e-98eb-5b8cfd8d973f.png)
+
+
 # Discord_NLP_Bot
 This Bot uses NLP, more specifically the OpenAi API.
 If you wish to use it, you will have to enter your own OpenApi key.
