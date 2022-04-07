@@ -7,7 +7,7 @@ create a free account and get your API key 🔑.
 
 You will also have to insert your own client URL.
 
-Both changes shall be made inside the [main.py](https://github.com/b1twe1ser/Discord_NLP_Bot/blob/master/main.py).
+Both changes shall be made inside the [main.py](https://github.com/b1twe1ser/Discord_NLP_Bot/blob/master/main.py) file.
 
 
 
