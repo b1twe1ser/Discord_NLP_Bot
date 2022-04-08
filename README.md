@@ -4,7 +4,7 @@
 
 
 # Discord_NLP_Bot
- > This Bot uses NLP, more specifically the OpenAi API.
+ > AI Discord chat bot build with OpenAi.
 
 
 Visit [OpenAi](https://auth0.openai.com/u/login?state=hKFo2SBvS3UtY01Wd1BuM3JJakpXRDl1X1NFZVNGYkEyUDdaNqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGVka3JUNFktcWV5dkRPeU1fVWtycWVRUnFQMkNSb2dYo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q),
